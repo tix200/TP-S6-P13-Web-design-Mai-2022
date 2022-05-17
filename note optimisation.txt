@@ -1,0 +1,7 @@
+
+-j ai fais un reecriture d Url afin de caché me technologie , 
+- j ai creer un fichier Robot.txt afin de permetre au robot d avoir accee au site
+- mes pages du site sont accessible en 3 clic minimum de puis ma page d acceuil
+- j a ienlever les _ dans le mots clé et j ai chanché en -
+
+- le mot cle rechauffement climatique se trouve dans le titre dans la decription et dans contenue

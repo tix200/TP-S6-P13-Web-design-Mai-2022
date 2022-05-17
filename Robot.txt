@@ -1,0 +1,4 @@
+User-Agent:*
+Disallow;/intranet/
+Disallow:/login.php
+Allow:*.css?"
